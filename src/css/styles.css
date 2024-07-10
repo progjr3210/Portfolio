@@ -11,12 +11,12 @@ body {
   min-height: 100vh;
   background-image: linear-gradient(
     to bottom,
-    #422680 0%,
-    #341671 16.67%,
-    #280659 33.33%,
-    #660f56 50%,
-    #ae2d68 66.67%,
-    #f54952 83.33%
+    #1e3c72 0%,
+    #2a5298 20%,
+    #3498db 40%,
+    #76d7c4 60%,
+    #17a589 80%,
+    #1abc9c 100%
   );
   color: #fdfcfd;
   font-family: "Euclid Circular A", "Poppins";
